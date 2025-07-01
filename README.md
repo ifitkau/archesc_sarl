@@ -1,5 +1,8 @@
 # CODE FOR SINGLE-AGENT RL-APPROACH FOR PATH PLANNING AND FLOOR PLAN DESIGN IN DYNAMIC ENVIRONMENTS
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
 This repository contains the implementation of a reinforcement learning framework for investigating agent-driven architectural design through dynamic door placement in escape scenarios. The codebase supports the research presented in "Single-Agent RL-Approach for Path Planning and Floor Plan Design in Dynamic Environments."
 
 ## Research Context
