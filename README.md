@@ -126,14 +126,7 @@ reward_scales = {
 
 ## Citation
 
-```bibtex
-@article{fitkau2025rl_escape_paths,
-  title={Single-Agent RL-Approach for Path Planning and Floor Plan Design in Dynamic Environments},
-  author={Fitkau, I. and Hartmann, T.},
-  year={2025},
-  note={Chapter 2}
-}
-```
+tba.
 
 ## License
 
